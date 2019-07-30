@@ -1,6 +1,6 @@
 # Robodex
 
-Single-page web app that displays a list Robots dynamically genereated using hashing.
+Single-page web app that displays a list Robots dynamically generated using hashing.
 
 # Technologies Used
 
