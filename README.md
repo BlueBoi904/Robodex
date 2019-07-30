@@ -16,4 +16,4 @@ Single-page web app that displays a list Robots dynamically genereated using has
 
 # Test App Live
 
-Test for yourself here: https://react-web-store.herokuapp.com/
+Test for yourself here: https://robo-dex.herokuapp.com/
